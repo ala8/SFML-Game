@@ -1,0 +1,10 @@
+This project requires SFML's include and lib directories, get them from: https://www.sfml-dev.org/download/sfml/2.5.1/
+
+For people that find this complicated:
+1. Open https://www.sfml-dev.org/download/sfml/2.5.1/ on your internet browser
+2. Download the compatible one to your compiler. (Visual Studio 2019 has Visual C++ 15 by default)
+3. extract (unzip) the folder and copy the "include" and "lib" folders.
+4. paste them into this folder.
+
+
+NOTE: Make sure you keep them untouched, modifying/deleting them will result in compiling errors/game crashing.
