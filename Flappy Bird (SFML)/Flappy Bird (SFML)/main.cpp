@@ -1,5 +1,5 @@
 /*
-	This "game" was made with SFML which's document is: https://www.sfml-dev.org/documentation/2.5.1/
+	This "game" was made with SFML which's documentation is: https://www.sfml-dev.org/documentation/2.5.1/
 
 	This is just an example of how SFML works. This is far from perfect/clean code, the purpose is to introduce you to SFML.
 
