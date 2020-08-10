@@ -1,1 +1,1 @@
-These files are critical for SFML to run. Deleting these files will result in game crashing.
+These files are critical for SFML to run. Deleting these files will result in game crashing unless you're replacing them with valid ones using the given instructions that can be found on ..\Flappy Bird (SFML)\main.cpp
