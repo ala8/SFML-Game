@@ -6,8 +6,9 @@
 	As you might notice this "game" doesn't have any level generation algorithm or a score counter, simply because this is not a SFML
 	tutorial. This is just an introduction to glance at, not learn from.
 
-	You might have noticed the Debug & SFML folder that comes with this project. They must remain intact, modifying/deleting them will result
-	in game crashing or the project might not compile at all.
+	You might have noticed the Debug & SFML folder that comes with this project. The debug folder must remain intact. You have to open the
+        SFML folder and read the instructions I left there. If the game crashes after completing my instructions, replace the files in the
+        Debug folder with the "bin" files that are found in the SFML downloaded folder
 
 	You are free to use this in any shape or form. This was made for educational purposes not financial.
 
