@@ -1,1 +1,0 @@
-These files are critical for SFML to run. Deleting these files will result in game crashing.
