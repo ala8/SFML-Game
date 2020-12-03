@@ -11,8 +11,6 @@
         Debug folder with the "bin" files that are found in the SFML downloaded folder.
 
 	You are free to use this in any shape or form. This was made for educational purposes not financial.
-
-	Thanks for checking my stuff out :)
 */
 
 
